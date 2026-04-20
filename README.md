@@ -113,7 +113,7 @@ Multiple machine learning algorithms are trained, evaluated, and compared using 
 ## ▶️ How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/mm-black65/Wine-Classification-using-Machine-Learning.git>
 cd <your-folder>
 pip install -r requirements.txt
 jupyter notebook
