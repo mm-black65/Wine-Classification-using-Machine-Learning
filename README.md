@@ -118,3 +118,21 @@ cd <your-folder>
 pip install -r requirements.txt
 jupyter notebook
 streamlit run app.py
+```
+
+---
+
+## 📚 What I Learned
+ - Model comparison and evaluation techniques
+- Importance of feature scaling
+- SVM for classification tasks
+- Hyperparameter tuning using GridSearchCV
+- Deploying ML models using Streamlit
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates a complete machine learning workflow for classification tasks — from preprocessing and model comparison to optimization and deployment.
+
+The focus on SVM tuning and Streamlit deployment makes it both technically strong and presentation-ready.
